@@ -220,6 +220,7 @@ img {
 .coin__title {
   display: block;
   margin-bottom: 10px;
+  font-size: 22px;
 }
 
 .coin__symbol {
@@ -232,4 +233,5 @@ img {
 }
 .dark-mode {
   background-color: #000;
+  color: white;
 }
